@@ -1,2 +1,5 @@
-# jinsoonsong
+# jinsoonsong  Ph.D.
+Assistant Professor, Department of Public Administration, Dong-A University   
+✉️ songjs@dau.ac.kr | 📞 051-200-8755   
+ College of Social Sciences, Dong-A University, Busan, South Korea   
 AI 기술이 공공행정과 시민 참여에 미치는 영향을 분석하고, 언어의 의미와 화용적 측면에서 가치합리성에 기반한 행정 윤리와 공공 소통 활성화 방안을 연구하고 있습니다.
